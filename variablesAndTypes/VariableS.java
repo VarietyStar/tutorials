@@ -1,4 +1,3 @@
-package variablesAndTypes;
 public class VariableS {
     public static void main(String[] args) {
         /*
