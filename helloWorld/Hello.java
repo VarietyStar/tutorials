@@ -1,5 +1,3 @@
-package helloWorld;
-
 //Hello World Tutorial
 //Class: Permissions Statement Name
 public class Hello {
