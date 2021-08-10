@@ -1,4 +1,3 @@
-package arrays;
 public class ArrayS {
     public static void main(String[] args) {
         /*
