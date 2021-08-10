@@ -1,4 +1,3 @@
-package loops;
 public class Loop {
     public static void main(String[] args) {
     	//for loop (variable; condition; increment)
