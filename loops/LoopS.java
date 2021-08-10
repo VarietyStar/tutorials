@@ -1,4 +1,3 @@
-package loops;
 public class LoopS {
     public static void main(String[] args) {
         /*
